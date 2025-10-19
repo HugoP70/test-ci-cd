@@ -10,12 +10,6 @@ namespace Metier
 
 
 
-
-
-
-
-
-
-                           Console.WriteLine("yo la team");                 }
+                                              Console.WriteLine("yo la team");                 }
     }
 }
