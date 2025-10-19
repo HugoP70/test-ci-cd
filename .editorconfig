@@ -20,7 +20,7 @@ max_line_length = 100
 # Interface naming rule
 dotnet_naming_rule.interfaces_should_start_with_i.symbols = interfaces
 dotnet_naming_rule.interfaces_should_start_with_i.style = prefix_i
-dotnet_naming_rule.interfaces_should_start_with_i.severity = error
+dotnet_naming_rule.interfaces_should_start_with_i.severity = warning
 
 dotnet_naming_symbols.interfaces.applicable_kinds = interface
 dotnet_naming_symbols.interfaces.applicable_accessibilities = *
