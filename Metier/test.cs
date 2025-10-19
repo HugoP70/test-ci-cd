@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace Metier
 {
-  public interface test { }
+  public interface testa { }
 }
