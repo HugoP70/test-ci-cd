@@ -2,14 +2,11 @@ using System.Runtime.InteropServices;
 
 namespace Metier
 {
-    public class Class1
+  public class Class1
+  {
+    public void Test()
     {
-
-
- public void Test(           )    {
-
-
-
-                                              Console.WriteLine("yo la team");                 }
+      Console.WriteLine("hello world");
     }
+  }
 }
