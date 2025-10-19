@@ -4,9 +4,15 @@ namespace Metier
 {
     public class Class1
     {
-        public void Test()
-        {
-            Console.WriteLine("yo la team");
-        }
+
+
+ public void Test(           )    {
+
+
+
+
+
+
+                           Console.WriteLine("yo la team");                 }
     }
 }
