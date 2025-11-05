@@ -10,7 +10,7 @@ namespace Metier
     {
         public bool returnTrue()
         {
-            Console.log("aaa");
+            Console.WriteLine("aaa");
             return true;
         }
     }
