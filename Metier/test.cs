@@ -10,6 +10,7 @@ namespace Metier
     {
         public bool returnTrue()
         {
+            Console.log("aaa");
             return true;
         }
     }
