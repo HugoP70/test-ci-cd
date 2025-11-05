@@ -8,7 +8,7 @@ namespace TestModel
         public void Test1()
         {
             Test test = new Test();
-            Assert.False(test.returnTrue);
+            Assert.True(test.returnTrue);
         }
     }
 }

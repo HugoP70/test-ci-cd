@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Metier
 {
-  public class Test
-  {
+    public class Test
+    {
         public bool returnTrue()
         {
             return true;
         }
-  }
+    }
 }
